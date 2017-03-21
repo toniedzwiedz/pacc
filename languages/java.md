@@ -12,4 +12,4 @@ You know that a `*.java` file needs to contain a public class with a name matchi
 
 Use UFT-8 encoding.
 
-Okay, so that was a typo. I'm sorry but you just want everything to be perfect. Thankfully, this is on GitHub so somone who cares can fix it.
+Okay, so that was a typo. I'm sorry but you just want everything to be perfect. Thankfully, this is on GitHub so somone who actually cares can fix it.
